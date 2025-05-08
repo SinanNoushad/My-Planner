@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { ChevronLeft, ChevronRight, Bell, Search, User, Calendar, List, Settings, Plus, X, Clock, MapPin, Video, Repeat, Tag, AlertCircle } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Bell, Search, User, Calendar, List, Settings, Plus, X, Clock, MapPin, Video } from 'lucide-react';
 
 // Sample tasks data
 const sampleTasks = [
