@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "date": "2023-05-08",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "color": "#4285f4",
+    "title": "Team Meeting",
+    "location": "Conference Room A",
+    "hasVideoLink": true
+  },
+  {
+    "id": 2,
+    "date": "2023-05-08",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#ea4335",
+    "title": "Project Review",
+    "hasVideoLink": false
+  },
+  {
+    "id": 3,
+    "date": "2023-05-08",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "color": "#34a853",
+    "title": "Doctor Appointment",
+    "location": "Medical Center"
+  },
+  {
+    "id": 4,
+    "date": "2023-05-09",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "color": "#fbbc05",
+    "title": "Client Presentation"
+  },
+  {
+    "id": 5,
+    "date": "2023-05-07",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "color": "#4285f4",
+    "title": "Product Demo"
+  },
+  {
+    "id": 6,
+    "date": "2023-05-10",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "color": "#46bdc6",
+    "title": "Interview Candidate"
+  },
+  {
+    "id": 7,
+    "date": "2023-05-11",
+    "startTime": "15:00",
+    "endTime": "16:30",
+    "color": "#7986cb",
+    "title": "Strategy Planning",
+    "location": "Executive Boardroom",
+    "hasVideoLink": true
+  }
+] 

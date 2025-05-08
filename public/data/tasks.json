@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "completed": false,
+    "category": "Personal",
+    "dueDate": "2023-05-08"
+  },
+  {
+    "id": 2,
+    "title": "Finish project report",
+    "completed": true,
+    "category": "Work",
+    "dueDate": "2023-05-08"
+  },
+  {
+    "id": 3,
+    "title": "Call mom",
+    "completed": true,
+    "category": "Personal",
+    "dueDate": "2023-05-07"
+  },
+  {
+    "id": 4,
+    "title": "Schedule team meeting",
+    "completed": false,
+    "category": "Work",
+    "dueDate": "2023-05-09"
+  },
+  {
+    "id": 5,
+    "title": "Pay electricity bill",
+    "completed": false,
+    "category": "Urgent",
+    "dueDate": "2023-05-10"
+  }
+] 
